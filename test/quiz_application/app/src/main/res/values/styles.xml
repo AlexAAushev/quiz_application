@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomFragment">
+        <item name="android:windowAnimationStyle">@style/CustomFragmentAnimation</item>
+    </style>
+
+    <style name="CustomFragmentAnimation">
+        <item name="android:windowExitTransition">@anim/slide_two</item>
+        <item name="android:windowEnterTransition">@anim/slide_one</item>
+    </style>
+</resources>

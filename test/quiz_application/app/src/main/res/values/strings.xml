@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">QUIZ</string>
+    <string name="button_continue">начать</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_two">ЭКРАН ОПРОСА</string>
+    <string name="main_fragment">ЭКРАН ПРИВЕТСТВИЯ</string>
+    <string name="three_fragment">ЭКРАН РЕЗУЛЬТАТОВ</string>
+    <string name="button_back">назад</string>
+    <string name="button_send">отправить</string>
+    <!-- TODO: Remove or change this placeholder text -->
+<!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <string name="fragment_three">ЭКРАН РЕЗУЛЬТАТОВ</string>
+    <string name="button_start_over">начать заново</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="ask_one"/>
+    <string name="ask_two"/>
+    <string name="ask_three"/>
+
+    <string name="answer_one_2"/>
+    <string name="answer_one_1"/>
+    <string name="answer_one_3"/>
+    <string name="answer_one_4"/>
+    <string name="answer_two_1"/>
+    <string name="answer_two_2"/>
+    <string name="answer_two_3"/>
+    <string name="answer_two_4"/>
+    <string name="answer_three_1"/>
+    <string name="answer_three_2"/>
+    <string name="answer_three_3"/>
+    <string name="answer_three_4"/>
+
+    <string name="answer_user_one_1"></string>
+    <string name="answer_user_one_2"></string>
+    <string name="answers_feedback">answers_feedback</string>
+    <string name="todo">TODO</string>
+</resources>
